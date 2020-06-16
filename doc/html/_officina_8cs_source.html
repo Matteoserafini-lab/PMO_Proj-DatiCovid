@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.18"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>DatiCovid: DatiCovid/Properties/Officina.cs Source File</title>
+<title>PMO_Proj-DatiCovid: DatiCovid/Properties/Officina.cs Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,7 +21,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">DatiCovid
+   <div id="projectname">PMO_Proj-DatiCovid
    </div>
   </td>
  </tr>
@@ -115,8 +115,8 @@ $(function() {
 <div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;            var director = <span class="keyword">new</span> <a class="code" href="class_dati_covid_1_1_director.html">Director</a>();</div>
 <div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;            var builder = <span class="keyword">new</span> <a class="code" href="class_dati_covid_1_1_concrete_builder.html">ConcreteBuilder</a>();</div>
 <div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;            director.Builder = builder;</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;            <span class="keywordflow">try</span> {</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;                </div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;            </div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;            <span class="keywordflow">try</span> {</div>
 <div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;                <span class="keywordflow">foreach</span>(JObject jobj <span class="keywordflow">in</span> this.DN.<a class="code" href="class_dati_covid_1_1_dati_proxy.html#aa062f4d23d283e2fe88e52ad2e07d422">DownloadDati</a>()) {</div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                    director.AndamentoNazionale(jobj);</div>
 <div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;                    <a class="code" href="class_dati_covid_1_1_product.html">Product</a> p = builder.GetProduct();</div>
@@ -136,7 +136,7 @@ $(function() {
 <div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;                    l.<a class="code" href="class_dati_covid_1_1_liste.html#a0ef6cca0771c402fcc4626f7c26e7883">Order</a>();</div>
 <div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;                }</div>
 <div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;                File.WriteAllText(<span class="stringliteral">&quot;dati-raw-json/data.txt&quot;</span>, <a class="code" href="class_dati_covid_1_1_officina.html#ad788d3d1034f3ae874caf34b6a44b8dd">data</a>);</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;                lbInfo2.Text = <span class="stringliteral">&quot;\n_Dati aggiornati\ncon successo!!&quot;</span>;</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;                lbInfo2.Text = <span class="stringliteral">&quot;\n_Dati aggiornati\n con successo!!\n&quot;</span>;</div>
 <div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;            } <span class="keywordflow">catch</span> (Exception){</div>
 <div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;                lbInfo2.Text = <span class="stringliteral">&quot;\nAggiornamento non riuscito,\ncontrolla la connessione!!\n&quot;</span>;</div>
 <div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;            } <span class="keywordflow">finally</span> {</div>
@@ -150,7 +150,7 @@ $(function() {
 <div class="ttc" id="aclass_dati_covid_1_1_officina_html_a1f35323b201dd3c0445c73b72f3678ce"><div class="ttname"><a href="class_dati_covid_1_1_officina.html#a1f35323b201dd3c0445c73b72f3678ce">DatiCovid.Officina.Aggiorna</a></div><div class="ttdeci">void Aggiorna(ref Label lbItalia, ref Label lbInfo2)</div><div class="ttdef"><b>Definition:</b> <a href="_officina_8cs_source.html#l00030">Officina.cs:30</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_dati_proxy_html_aa062f4d23d283e2fe88e52ad2e07d422"><div class="ttname"><a href="class_dati_covid_1_1_dati_proxy.html#aa062f4d23d283e2fe88e52ad2e07d422">DatiCovid.DatiProxy.DownloadDati</a></div><div class="ttdeci">JArray DownloadDati()</div><div class="ttdef"><b>Definition:</b> <a href="_dati_proxy_8cs_source.html#l00025">DatiProxy.cs:25</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_officina_html_a4bc5e6f662cac1cd7969525bc2da1b68"><div class="ttname"><a href="class_dati_covid_1_1_officina.html#a4bc5e6f662cac1cd7969525bc2da1b68">DatiCovid.Officina.url_r</a></div><div class="ttdeci">static readonly string url_r</div><div class="ttdef"><b>Definition:</b> <a href="_officina_8cs_source.html#l00018">Officina.cs:18</a></div></div>
-<div class="ttc" id="anamespace_dati_covid_html"><div class="ttname"><a href="namespace_dati_covid.html">DatiCovid</a></div><div class="ttdef"><b>Definition:</b> <a href="_program_8cs_source.html#l00005">Program.cs:6</a></div></div>
+<div class="ttc" id="anamespace_dati_covid_html"><div class="ttname"><a href="namespace_dati_covid.html">DatiCovid</a></div><div class="ttdef"><b>Definition:</b> <a href="_program_8cs_source.html#l00004">Program.cs:5</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_officina_html_af168c218175d36fccaf9403f6bfb7f57"><div class="ttname"><a href="class_dati_covid_1_1_officina.html#af168c218175d36fccaf9403f6bfb7f57">DatiCovid.Officina.attributi</a></div><div class="ttdeci">List&lt; Liste &gt; attributi</div><div class="ttdef"><b>Definition:</b> <a href="_officina_8cs_source.html#l00013">Officina.cs:13</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_product_html_a97e593fa40c9ac7375c1dcf7d8246505"><div class="ttname"><a href="class_dati_covid_1_1_product.html#a97e593fa40c9ac7375c1dcf7d8246505">DatiCovid.Product.GetData</a></div><div class="ttdeci">string GetData()</div><div class="ttdef"><b>Definition:</b> <a href="_product_8cs_source.html#l00015">Product.cs:15</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_officina_html_a140a662a2260c5ca6b7aaa35e8c65c92"><div class="ttname"><a href="class_dati_covid_1_1_officina.html#a140a662a2260c5ca6b7aaa35e8c65c92">DatiCovid.Officina.DR</a></div><div class="ttdeci">DatiProxy DR</div><div class="ttdef"><b>Definition:</b> <a href="_officina_8cs_source.html#l00015">Officina.cs:15</a></div></div>

@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['regione_105',['Regione',['../class_dati_covid_1_1_director.html#a6a080c540361cb068e9fb8897b9fd76d',1,'DatiCovid.Director.Regione()'],['../class_dati_covid_1_1_officina.html#a06d774eb8b0eb368f9e38e15c558adbe',1,'DatiCovid.Officina.regione()']]],
-  ['reset_106',['Reset',['../class_dati_covid_1_1_concrete_builder.html#ad1ef59f786def216cb821d1feb54bd32',1,'DatiCovid::ConcreteBuilder']]],
-  ['ricoverati_5fcon_5fsintomi_107',['ricoverati_con_sintomi',['../class_dati_covid_1_1_concrete_builder.html#af1ad5739d58b3de129b79acd27bd1d4c',1,'DatiCovid.ConcreteBuilder.ricoverati_con_sintomi()'],['../interface_dati_covid_1_1_i_builder.html#aebf41aad02462027bf0611395f9b9dd3',1,'DatiCovid.IBuilder.ricoverati_con_sintomi()']]]
+  ['regione_129',['Regione',['../class_dati_covid_1_1_director.html#a6a080c540361cb068e9fb8897b9fd76d',1,'DatiCovid.Director.Regione()'],['../class_dati_covid_1_1_officina.html#a06d774eb8b0eb368f9e38e15c558adbe',1,'DatiCovid.Officina.regione()']]],
+  ['reset_130',['Reset',['../class_dati_covid_1_1_concrete_builder.html#ad1ef59f786def216cb821d1feb54bd32',1,'DatiCovid::ConcreteBuilder']]],
+  ['ricoverati_5fcon_5fsintomi_131',['ricoverati_con_sintomi',['../class_dati_covid_1_1_concrete_builder.html#af1ad5739d58b3de129b79acd27bd1d4c',1,'DatiCovid.ConcreteBuilder.ricoverati_con_sintomi()'],['../interface_dati_covid_1_1_i_builder.html#aebf41aad02462027bf0611395f9b9dd3',1,'DatiCovid.IBuilder.ricoverati_con_sintomi()'],['../_italia_8txt.html#a6f947e273af6d1ca4a74e7bbf9c0f5c0',1,'ricoverati_con_sintomi():&#160;Italia.txt']]],
+  ['romagna_132',['Romagna',['../deceduti_8txt.html#a8d72dd58dc111b3764ba181bec22d5cb',1,'Romagna():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#add21dac314d724589e20162789e49f33',1,'Romagna():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#a22d32e6be54e22c55ad284d1e0e1e2e7',1,'Romagna():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#a8b0396ad2d60abf36df8835382d11246',1,'Romagna():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#aa731dc5bf84bcb3f4f1ab07fbd4fa183',1,'Romagna():&#160;variazione_totale_positivi.txt']]]
 ];

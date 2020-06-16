@@ -14,12 +14,12 @@ namespace DatiCovid
         [UI] private Button _button2 = null;
         [UI] private Button _button3 = null;
         private readonly string info = "\nnuovi dati ogni giorno\n dopo le 17:00";
-        private DisplayContext ctx;
+        private DisplayChoice dch;
 
         public MainWindow() : this(new Builder("MainWindow.glade")) {
             this.lbInfo1.Text = $"{DateTime.Now} {this.info}"; 
-            this.ctx = new DisplayContext(ref lbItalia, ref lbRegioni, ref lbInfo2);
-            ctx.Update(ref lbItalia, ref lbRegioni, ref lbInfo2);
+            this.dch = new DisplayChoice(ref lbItalia, ref lbRegioni, ref lbInfo2);
+            dch.Update(ref lbItalia, ref lbRegioni, ref lbInfo2);
         }
 
         private MainWindow(Builder builder) : base(builder.GetObject("MainWindow").Handle)
@@ -39,18 +39,18 @@ namespace DatiCovid
 
         private void Button1_Clicked(object sender, EventArgs a)
         {
-            ctx.Previous(ref lbRegioni, ref lbInfo2);
+            dch.Previous(ref lbRegioni, ref lbInfo2);
             this.lbInfo1.Text = $"{DateTime.Now} {this.info}";
         }
 
         private void Button2_Clicked(object sender, EventArgs a){
             this.lbInfo1.Text = $"{DateTime.Now} {this.info}";
-            ctx.Update(ref lbItalia, ref lbRegioni, ref lbInfo2);
+            dch.Update(ref lbItalia, ref lbRegioni, ref lbInfo2);
         }
         
         private void Button3_Clicked(object sender, EventArgs a)
         {
-            ctx.Next(ref lbRegioni, ref lbInfo2);
+            dch.Next(ref lbRegioni, ref lbInfo2);
             this.lbInfo1.Text = $"{DateTime.Now} {this.info}";
         }
     }

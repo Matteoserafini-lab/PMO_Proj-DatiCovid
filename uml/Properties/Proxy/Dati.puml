@@ -5,6 +5,7 @@ class Dati {
     - flag : bool
     <<internal>> Dati(url:string, path:string, b:bool)
     + DownloadDati() : JArray
+    - ParseDati() : JArray
 }
 IDati <|-- Dati
 @enduml

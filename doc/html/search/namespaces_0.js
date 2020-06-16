@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['daticovid_150',['DatiCovid',['../namespace_dati_covid.html',1,'']]]
+  ['daticovid_185',['DatiCovid',['../namespace_dati_covid.html',1,'']]]
 ];

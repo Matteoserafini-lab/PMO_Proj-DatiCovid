@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['currentstate_274',['CurrentState',['../class_dati_covid_1_1_display_context.html#a0598e745463a19f14581576dd4087750',1,'DatiCovid::DisplayContext']]]
+  ['currentstate_358',['CurrentState',['../class_dati_covid_1_1_display_choice.html#a495fec15e2f25234939492cce2f5658e',1,'DatiCovid::DisplayChoice']]]
 ];

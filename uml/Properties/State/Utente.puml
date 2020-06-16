@@ -1,0 +1,10 @@
+@startuml
+class DisplayChoice {
+    + DisplayChoice(lbItalia:Label, lbRegioni:Label, lbInfo2:Label)
+    + Next(lbRegioni:Label, lbInfo2:Label) : void
+    + Update(lbItalia:Label, lbRegioni:Label, lbInfo2:Label) : void
+    + Previous(lbRegioni:Label, lbInfo2:Label) : void
+}
+DisplayChoice --> "O" Officina
+DisplayChoice --> "CurrentState" DisplayState
+@enduml

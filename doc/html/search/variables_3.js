@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['check_249',['check',['../class_dati_covid_1_1_dati_proxy.html#adf81c9f6d2a40e5b420b295c40ca955a',1,'DatiCovid::DatiProxy']]],
-  ['ctx_250',['ctx',['../class_dati_covid_1_1_main_window.html#a3b8f1e4eed42475e0abd47678ceb1b45',1,'DatiCovid::MainWindow']]]
+  ['calabria_302',['Calabria',['../deceduti_8txt.html#a20360428ba2c969b79eee7f224593cd5',1,'Calabria():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#aca761c49296819b1bd71b8330f414dbe',1,'Calabria():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#a3a35484bd3501afc2e883d976e3c308c',1,'Calabria():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#a323ed0ed3bb9cd224914040ccbb2962c',1,'Calabria():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#a2b10455282d3dff3d374a50d1dc8e72d',1,'Calabria():&#160;variazione_totale_positivi.txt']]],
+  ['campania_303',['Campania',['../deceduti_8txt.html#a6ea93773a94267de75438d33c894bb0d',1,'Campania():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#a6037551e3c1f75992623f604cb3a2dcf',1,'Campania():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#af5e6602e443740a9f924e13034898cd8',1,'Campania():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#a568b57f7175a9be593ce04d3b0bc1a14',1,'Campania():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#a82750969bdc2f7f550b7662791114124',1,'Campania():&#160;variazione_totale_positivi.txt']]],
+  ['casi_5ftestati_304',['casi_testati',['../_italia_8txt.html#a5be6c7e59ee03aea9e7b5bd7a2cbd8d8',1,'Italia.txt']]],
+  ['check_305',['check',['../class_dati_covid_1_1_dati_proxy.html#adf81c9f6d2a40e5b420b295c40ca955a',1,'DatiCovid::DatiProxy']]]
 ];

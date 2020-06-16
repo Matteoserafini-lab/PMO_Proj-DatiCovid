@@ -1,13 +1,16 @@
 var searchData=
 [
-  ['parts_95',['parts',['../class_dati_covid_1_1_product.html#ab3c7c212ba5f21b544dde2a46a8b2371',1,'DatiCovid::Product']]],
-  ['path_5fn_96',['path_n',['../class_dati_covid_1_1_officina.html#ac43dad3d15ee7a1bd7df332d2fff68bb',1,'DatiCovid::Officina']]],
-  ['path_5fr_97',['path_r',['../class_dati_covid_1_1_officina.html#aa30e2e08b3422d10424f16d61756271b',1,'DatiCovid::Officina']]],
-  ['positivi_98',['Positivi',['../class_dati_covid_1_1_positivi.html',1,'DatiCovid.Positivi'],['../class_dati_covid_1_1_positivi.html#a0de120706dd0cb969ce1a7231b1446ef',1,'DatiCovid.Positivi.Positivi()']]],
-  ['positivi_2ecs_99',['Positivi.cs',['../_positivi_8cs.html',1,'']]],
-  ['previous_100',['Previous',['../class_dati_covid_1_1_deceduti.html#abc5e7b01cb7ec3f83022faec5ac2a388',1,'DatiCovid.Deceduti.Previous()'],['../class_dati_covid_1_1_display_context.html#a3e3c5d28af8c0d5a657e0ccac21b9742',1,'DatiCovid.DisplayContext.Previous()'],['../class_dati_covid_1_1_guariti.html#a65a8f09813c14c96852a140e203ef394',1,'DatiCovid.Guariti.Previous()'],['../interface_dati_covid_1_1_display_state.html#a9a039d7b9920cb183a5dee6dcf0bd39c',1,'DatiCovid.DisplayState.Previous()'],['../class_dati_covid_1_1_positivi.html#ad835125afb9fbd191d5138a11c1a6854',1,'DatiCovid.Positivi.Previous()'],['../class_dati_covid_1_1_totale_casi.html#a3550ec4d3b43a2b17db02bed248ebf13',1,'DatiCovid.TotaleCasi.Previous()'],['../class_dati_covid_1_1_var_positivi.html#aae185ab735f40320ee94c25a32b719a1',1,'DatiCovid.VarPositivi.Previous()']]],
-  ['product_101',['Product',['../class_dati_covid_1_1_product.html',1,'DatiCovid.Product'],['../class_dati_covid_1_1_concrete_builder.html#aee5cb88254790d29dcd3d93168cd8ed6',1,'DatiCovid.ConcreteBuilder.product()']]],
-  ['product_2ecs_102',['Product.cs',['../_product_8cs.html',1,'']]],
-  ['program_103',['Program',['../class_dati_covid_1_1_program.html',1,'DatiCovid']]],
-  ['program_2ecs_104',['Program.cs',['../_program_8cs.html',1,'']]]
+  ['parsedati_116',['ParseDati',['../class_dati_covid_1_1_dati.html#a20e32f207462499d9c54e9f29daba901',1,'DatiCovid::Dati']]],
+  ['parts_117',['parts',['../class_dati_covid_1_1_product.html#ab3c7c212ba5f21b544dde2a46a8b2371',1,'DatiCovid::Product']]],
+  ['path_5fn_118',['path_n',['../class_dati_covid_1_1_officina.html#ac43dad3d15ee7a1bd7df332d2fff68bb',1,'DatiCovid::Officina']]],
+  ['path_5fr_119',['path_r',['../class_dati_covid_1_1_officina.html#aa30e2e08b3422d10424f16d61756271b',1,'DatiCovid::Officina']]],
+  ['piemonte_120',['Piemonte',['../deceduti_8txt.html#a6cfadf08c251b34dda0c05d830f1e831',1,'Piemonte():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#af3a7e8ec3dc4fb0d5ccd3376ce155be6',1,'Piemonte():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#a415a2ef6166e3a92373ca383cdcad8c3',1,'Piemonte():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#a333a6d69ef86d184bad6aa5d95fbb582',1,'Piemonte():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#a3c5bf330cbcba604b4c741af58e5d900',1,'Piemonte():&#160;variazione_totale_positivi.txt']]],
+  ['positivi_121',['Positivi',['../class_dati_covid_1_1_positivi.html',1,'DatiCovid.Positivi'],['../class_dati_covid_1_1_positivi.html#a0de120706dd0cb969ce1a7231b1446ef',1,'DatiCovid.Positivi.Positivi()']]],
+  ['positivi_2ecs_122',['Positivi.cs',['../_positivi_8cs.html',1,'']]],
+  ['previous_123',['Previous',['../class_dati_covid_1_1_deceduti.html#a078a81bd4f5a77cc1b12b9c04138b80e',1,'DatiCovid.Deceduti.Previous()'],['../class_dati_covid_1_1_guariti.html#a2bd6558c7ab834f6c331ee95621869b6',1,'DatiCovid.Guariti.Previous()'],['../interface_dati_covid_1_1_display_state.html#aafebee334bf497015efe2aaba23a7715',1,'DatiCovid.DisplayState.Previous()'],['../class_dati_covid_1_1_positivi.html#a48c6e622b8304b2b37ed85692cb8c23d',1,'DatiCovid.Positivi.Previous()'],['../class_dati_covid_1_1_totale_casi.html#a299c289dd7d600c65387e219e2ec1479',1,'DatiCovid.TotaleCasi.Previous()'],['../class_dati_covid_1_1_display_choice.html#aedc8611415477834226913ac92946690',1,'DatiCovid.DisplayChoice.Previous()'],['../class_dati_covid_1_1_var_positivi.html#a82f97a3cb00f565f837f1a402526ac38',1,'DatiCovid.VarPositivi.Previous()']]],
+  ['product_124',['Product',['../class_dati_covid_1_1_product.html',1,'DatiCovid.Product'],['../class_dati_covid_1_1_concrete_builder.html#aee5cb88254790d29dcd3d93168cd8ed6',1,'DatiCovid.ConcreteBuilder.product()']]],
+  ['product_2ecs_125',['Product.cs',['../_product_8cs.html',1,'']]],
+  ['program_126',['Program',['../class_dati_covid_1_1_program.html',1,'DatiCovid']]],
+  ['program_2ecs_127',['Program.cs',['../_program_8cs.html',1,'']]],
+  ['puglia_128',['Puglia',['../deceduti_8txt.html#a00325519f5a8504e0158badd3f960b51',1,'Puglia():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#a35f445d7f65473a170f989a26f6218c7',1,'Puglia():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#acc44f29ad7ae8f34850492c1862ef7a1',1,'Puglia():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#a573b924af2600ede9b7509c0088bdbda',1,'Puglia():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#a6e3c2b10b900cbd7169ba09b07c75401',1,'Puglia():&#160;variazione_totale_positivi.txt']]]
 ];

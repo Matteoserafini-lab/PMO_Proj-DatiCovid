@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['sardegna_341',['Sardegna',['../deceduti_8txt.html#a1b85822f0baa882c83e73ef034332982',1,'Sardegna():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#a6ef3e4b90e149f892dbab8d8209d1942',1,'Sardegna():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#a5ea76a606d46ac9932753877d24dea5d',1,'Sardegna():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#a5f84a1515720d6493aadefde82f6af9f',1,'Sardegna():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#a436a73c2bfec7bcf7945d4ec694fe617',1,'Sardegna():&#160;variazione_totale_positivi.txt']]],
+  ['sicilia_342',['Sicilia',['../deceduti_8txt.html#a747aecc2d5688200c95d315533cb9127',1,'Sicilia():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#a79dcf8dfe85628336611cd845a8a0941',1,'Sicilia():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#aaa94d8a52f4253710813668f2a24e7c1',1,'Sicilia():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#a5f8e93d8be225cb3f54bdebd94ed855a',1,'Sicilia():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#a381558f7f0d0a016ccd51ae9d57efbaf',1,'Sicilia():&#160;variazione_totale_positivi.txt']]],
+  ['stato_343',['stato',['../_italia_8txt.html#a7effc0ffb04f418a369720cbd9f427a5',1,'Italia.txt']]]
+];

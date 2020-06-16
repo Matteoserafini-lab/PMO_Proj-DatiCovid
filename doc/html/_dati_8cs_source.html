@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.18"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>DatiCovid: DatiCovid/Properties/Proxy/Dati.cs Source File</title>
+<title>PMO_Proj-DatiCovid: DatiCovid/Properties/Proxy/Dati.cs Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,7 +21,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">DatiCovid
+   <div id="projectname">PMO_Proj-DatiCovid
    </div>
   </td>
  </tr>
@@ -93,22 +93,26 @@ $(function() {
 <div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;                        wc.DownloadFile(this._url,this. _path);</div>
 <div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;                    }</div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;                }</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;                <span class="keywordflow">return</span> JArray.Parse(File.ReadAllText(<a class="code" href="class_dati_covid_1_1_dati.html#a78777adc9cf634924230bd2178e32a3f">_path</a>));</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;                <span class="keywordflow">return</span> this.<a class="code" href="class_dati_covid_1_1_dati.html#a20e32f207462499d9c54e9f29daba901">ParseDati</a>();</div>
 <div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;            } <span class="keywordflow">catch</span> (Exception){</div>
 <div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;                <span class="keywordflow">throw</span>;</div>
 <div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;            }</div>
 <div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        }</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    }</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;}</div>
+<div class="line"><a name="l00030"></a><span class="lineno"><a class="line" href="class_dati_covid_1_1_dati.html#a20e32f207462499d9c54e9f29daba901">   30</a></span>&#160;        <span class="keyword">private</span> JArray <a class="code" href="class_dati_covid_1_1_dati.html#a20e32f207462499d9c54e9f29daba901">ParseDati</a>(){</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;            <span class="keywordflow">return</span> JArray.Parse(File.ReadAllText(<a class="code" href="class_dati_covid_1_1_dati.html#a78777adc9cf634924230bd2178e32a3f">_path</a>));</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;        }</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    }</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;}</div>
 </div><!-- fragment --></div><!-- contents -->
 <div class="ttc" id="aclass_dati_covid_1_1_dati_html_a95adefa59e5b277651d10530f5dbda50"><div class="ttname"><a href="class_dati_covid_1_1_dati.html#a95adefa59e5b277651d10530f5dbda50">DatiCovid.Dati.DownloadDati</a></div><div class="ttdeci">JArray DownloadDati()</div><div class="ttdef"><b>Definition:</b> <a href="_dati_8cs_source.html#l00018">Dati.cs:18</a></div></div>
-<div class="ttc" id="anamespace_dati_covid_html"><div class="ttname"><a href="namespace_dati_covid.html">DatiCovid</a></div><div class="ttdef"><b>Definition:</b> <a href="_program_8cs_source.html#l00005">Program.cs:6</a></div></div>
+<div class="ttc" id="anamespace_dati_covid_html"><div class="ttname"><a href="namespace_dati_covid.html">DatiCovid</a></div><div class="ttdef"><b>Definition:</b> <a href="_program_8cs_source.html#l00004">Program.cs:5</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_dati_html_aaf26370444cbc6543edf74b9bb3f3bce"><div class="ttname"><a href="class_dati_covid_1_1_dati.html#aaf26370444cbc6543edf74b9bb3f3bce">DatiCovid.Dati.flag</a></div><div class="ttdeci">bool flag</div><div class="ttdef"><b>Definition:</b> <a href="_dati_8cs_source.html#l00011">Dati.cs:11</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_dati_html_a78777adc9cf634924230bd2178e32a3f"><div class="ttname"><a href="class_dati_covid_1_1_dati.html#a78777adc9cf634924230bd2178e32a3f">DatiCovid.Dati._path</a></div><div class="ttdeci">string _path</div><div class="ttdef"><b>Definition:</b> <a href="_dati_8cs_source.html#l00010">Dati.cs:10</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_dati_html"><div class="ttname"><a href="class_dati_covid_1_1_dati.html">DatiCovid.Dati</a></div><div class="ttdef"><b>Definition:</b> <a href="_dati_8cs_source.html#l00007">Dati.cs:8</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_dati_html_aa6157a47620a5699d2651550a966ece6"><div class="ttname"><a href="class_dati_covid_1_1_dati.html#aa6157a47620a5699d2651550a966ece6">DatiCovid.Dati._url</a></div><div class="ttdeci">string _url</div><div class="ttdef"><b>Definition:</b> <a href="_dati_8cs_source.html#l00009">Dati.cs:9</a></div></div>
 <div class="ttc" id="ainterface_dati_covid_1_1_i_dati_html"><div class="ttname"><a href="interface_dati_covid_1_1_i_dati.html">DatiCovid.IDati</a></div><div class="ttdef"><b>Definition:</b> <a href="_i_dati_8cs_source.html#l00005">IDati.cs:6</a></div></div>
 <div class="ttc" id="aclass_dati_covid_1_1_dati_html_a13ac787eb52e77e2acc2b4abc95d4d97"><div class="ttname"><a href="class_dati_covid_1_1_dati.html#a13ac787eb52e77e2acc2b4abc95d4d97">DatiCovid.Dati.Dati</a></div><div class="ttdeci">Dati(string url, string path, bool b)</div><div class="ttdef"><b>Definition:</b> <a href="_dati_8cs_source.html#l00012">Dati.cs:12</a></div></div>
+<div class="ttc" id="aclass_dati_covid_1_1_dati_html_a20e32f207462499d9c54e9f29daba901"><div class="ttname"><a href="class_dati_covid_1_1_dati.html#a20e32f207462499d9c54e9f29daba901">DatiCovid.Dati.ParseDati</a></div><div class="ttdeci">JArray ParseDati()</div><div class="ttdef"><b>Definition:</b> <a href="_dati_8cs_source.html#l00030">Dati.cs:30</a></div></div>
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
 Generated by &#160;<a href="http://www.doxygen.org/index.html">

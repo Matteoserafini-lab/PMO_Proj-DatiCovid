@@ -3,9 +3,9 @@ var indexSectionsWithContent =
   0: "_abcdfgilmnoprstuvw",
   1: "cdgilmoptv",
   2: "d",
-  3: "cdgilmoptv",
+  3: "cdgilmoptuv",
   4: "abcdgilmnoprstuvw",
-  5: "_abcdfiloprtu",
+  5: "_abcdfgilmnoprstuv",
   6: "u",
   7: "bcd"
 };

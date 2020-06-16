@@ -1,9 +1,9 @@
 @startuml
 class VarPositivi {
     + VarPositivi(O:Officina, lbRegioni:Label, lbInfo2:Label)
-    + Next(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
-    + UpdateState(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
-    + Previous(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
+    + Next(dch:DisplayChoice, lbRegioni:Label, lbInfo2:Label) : void
+    + UpdateState(dch:DisplayChoice, lbRegioni:Label, lbInfo2:Label) : void
+    + Previous(dch:DisplayChoice, lbRegioni:Label, lbInfo2:Label) : void
 }
 DisplayState <|-- VarPositivi
 VarPositivi --> "_O" Officina

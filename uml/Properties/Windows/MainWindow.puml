@@ -16,5 +16,5 @@ MainWindow o-> "lbInfo2" Label
 MainWindow o-> "_button1" Button
 MainWindow o-> "_button2" Button
 MainWindow o-> "_button3" Button
-MainWindow --> "ctx" DisplayContext
+MainWindow --> "dch" DisplayChoice
 @enduml

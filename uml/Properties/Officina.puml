@@ -1,0 +1,19 @@
+@startuml
+class Officina {
+    - data : string = ""
+    - {static} <<readonly>> url_n : string = "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-andamento-nazionale-latest.json"
+    - {static} <<readonly>> url_r : string = "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-regioni-latest.json"
+    - {static} <<readonly>> path_n : string = "dati-raw-json/andamento_nazionale.json"
+    - {static} <<readonly>> path_r : string = "dati-raw-json/regioni_latest.json"
+    + Officina()
+    + StampaDati(lb:Label, i:int) : void
+    + Aggiorna(lbItalia:Label, lbInfo2:Label) : void
+}
+class "List`1"<T> {
+}
+Officina --> "LP" LoadProxy
+Officina --> "regione" Liste
+Officina --> "attributi<Liste>" "List`1"
+Officina --> "DN" DatiProxy
+Officina --> "DR" DatiProxy
+@enduml

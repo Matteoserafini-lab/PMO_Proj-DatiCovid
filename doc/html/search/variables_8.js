@@ -1,4 +1,12 @@
 var searchData=
 [
-  ['o_263',['O',['../class_dati_covid_1_1_display_context.html#a451622fb8086026db6f6dd369cee019a',1,'DatiCovid::DisplayContext']]]
+  ['lazio_317',['Lazio',['../deceduti_8txt.html#a31f09e2c2583823644ad543080a8d81b',1,'Lazio():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#af0b28ea9395a98e208305f3010e27f4c',1,'Lazio():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#a252fda4d4cda20294181b73db8facfca',1,'Lazio():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#ada0f2a17389bedb9bd30bfaf68e684de',1,'Lazio():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#a2e17c7a0388de9d414c090070dffbd96',1,'Lazio():&#160;variazione_totale_positivi.txt']]],
+  ['lbinfo1_318',['lbInfo1',['../class_dati_covid_1_1_main_window.html#ab82a7af2086fd8a60ed30a7b77b2bec9',1,'DatiCovid::MainWindow']]],
+  ['lbinfo2_319',['lbInfo2',['../class_dati_covid_1_1_main_window.html#a9dbd60c1296cc91c266c695e33ccd401',1,'DatiCovid::MainWindow']]],
+  ['lbitalia_320',['lbItalia',['../class_dati_covid_1_1_main_window.html#a264dc408a80cb5927ce7e8983af35037',1,'DatiCovid::MainWindow']]],
+  ['lbregioni_321',['lbRegioni',['../class_dati_covid_1_1_main_window.html#abae276de821f11765f50db762f1cec6e',1,'DatiCovid::MainWindow']]],
+  ['liguria_322',['Liguria',['../deceduti_8txt.html#adf1bbe55bcb3f19ae76863419f861f6c',1,'Liguria():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#a6cdcde3e3db29d01d1413fcc9bcf1c76',1,'Liguria():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#a08bfe5c654b5f9f4385b3d0a678cd730',1,'Liguria():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#a834be68c3bcdfd7489de429811d469c3',1,'Liguria():&#160;totale_positivi.txt'],['../variazione__totale__positivi_8txt.html#a8fd9d18060691dda3fcda6436fc4bfd0',1,'Liguria():&#160;variazione_totale_positivi.txt']]],
+  ['loader_323',['loader',['../class_dati_covid_1_1_load_proxy.html#a9fcaa96f3341fd32612f2052a7579eb4',1,'DatiCovid::LoadProxy']]],
+  ['lombardia_324',['Lombardia',['../deceduti_8txt.html#a143f5f471081639bfedf1a1435372c0f',1,'Lombardia():&#160;deceduti.txt'],['../dimessi__guariti_8txt.html#a5b6a321d6c472ae4487668e9990deacb',1,'Lombardia():&#160;dimessi_guariti.txt'],['../totale__casi_8txt.html#a905bde8990a38a427019ec284161951d',1,'Lombardia():&#160;totale_casi.txt'],['../totale__positivi_8txt.html#aa4fb3a416e5a0a04ad74cb66ef371a2c',1,'Lombardia():&#160;totale_positivi.txt']]],
+  ['lp_325',['LP',['../class_dati_covid_1_1_officina.html#ae82cd57f216a480b3bf88041d5c6f243',1,'DatiCovid::Officina']]]
 ];

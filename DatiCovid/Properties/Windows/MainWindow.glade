@@ -72,7 +72,7 @@
                 </child>
                 <child>
                   <object class="GtkButton" id="_button2">
-                    <property name="label" translatable="yes">Aggiorna</property>
+                    <property name="label" translatable="yes">Update</property>
                     <property name="visible">True</property>
                     <property name="can_focus">False</property>
                     <property name="receives_default">True</property>

@@ -1,15 +1,16 @@
 <map id="DatiCovid.Officina.Aggiorna" name="DatiCovid.Officina.Aggiorna">
 <area shape="rect" id="node1" title=" " alt="" coords="5,157,208,184"/>
 <area shape="rect" id="node2" href="$class_dati_covid_1_1_dati_proxy.html#aa062f4d23d283e2fe88e52ad2e07d422" title=" " alt="" coords="256,31,504,57"/>
-<area shape="rect" id="node6" href="$class_dati_covid_1_1_product.html#a97e593fa40c9ac7375c1dcf7d8246505" title=" " alt="" coords="281,81,479,108"/>
-<area shape="rect" id="node7" href="$class_dati_covid_1_1_product.html#a11760645b64b6d11da428c34c63dcbd7" title=" " alt="" coords="284,132,476,159"/>
-<area shape="rect" id="node8" href="$class_dati_covid_1_1_product.html#af4a971a1c982a3b1b9b0b9ccc5c89c0b" title=" " alt="" coords="281,183,479,209"/>
-<area shape="rect" id="node9" href="$class_dati_covid_1_1_liste.html#a0ef6cca0771c402fcc4626f7c26e7883" title=" " alt="" coords="299,233,461,260"/>
-<area shape="rect" id="node10" href="$class_dati_covid_1_1_officina.html#a9c8b5c1820dee1b2b979ef7ced79a572" title=" " alt="" coords="269,284,491,311"/>
+<area shape="rect" id="node7" href="$class_dati_covid_1_1_product.html#a97e593fa40c9ac7375c1dcf7d8246505" title=" " alt="" coords="281,81,479,108"/>
+<area shape="rect" id="node8" href="$class_dati_covid_1_1_product.html#a11760645b64b6d11da428c34c63dcbd7" title=" " alt="" coords="284,132,476,159"/>
+<area shape="rect" id="node9" href="$class_dati_covid_1_1_product.html#af4a971a1c982a3b1b9b0b9ccc5c89c0b" title=" " alt="" coords="281,183,479,209"/>
+<area shape="rect" id="node10" href="$class_dati_covid_1_1_liste.html#a0ef6cca0771c402fcc4626f7c26e7883" title=" " alt="" coords="299,233,461,260"/>
+<area shape="rect" id="node11" href="$class_dati_covid_1_1_officina.html#a9c8b5c1820dee1b2b979ef7ced79a572" title=" " alt="" coords="269,284,491,311"/>
 <area shape="rect" id="node3" href="$class_dati_covid_1_1_dati.html#a95adefa59e5b277651d10530f5dbda50" title=" " alt="" coords="559,5,773,32"/>
-<area shape="rect" id="node4" href="$class_dati_covid_1_1_dati_proxy.html#a23b19e4531ffa30b6eb7fb594a7af80d" title=" " alt="" coords="563,56,769,83"/>
-<area shape="rect" id="node5" href="$class_dati_covid_1_1_check_data_download.html#abfafff0209db812817a2ac76dc92d841" title=" " alt="" coords="828,56,1091,83"/>
-<area shape="rect" id="node11" href="$class_dati_covid_1_1_load_proxy.html#ad9ed3e162620a33b0e528bb91d27d15b" title=" " alt="" coords="552,284,780,311"/>
-<area shape="rect" id="node12" href="$class_dati_covid_1_1_load.html#a82395fee2f8d8ff57ee425f7913dff74" title=" " alt="" coords="863,259,1056,285"/>
-<area shape="rect" id="node13" href="$class_dati_covid_1_1_load_proxy.html#af6693233dbd926a7e2b19faf49969e58" title=" " alt="" coords="852,309,1067,336"/>
+<area shape="rect" id="node5" href="$class_dati_covid_1_1_dati_proxy.html#a23b19e4531ffa30b6eb7fb594a7af80d" title=" " alt="" coords="563,56,769,83"/>
+<area shape="rect" id="node4" href="$class_dati_covid_1_1_dati.html#a20e32f207462499d9c54e9f29daba901" title=" " alt="" coords="867,5,1051,32"/>
+<area shape="rect" id="node6" href="$class_dati_covid_1_1_check_data_download.html#abfafff0209db812817a2ac76dc92d841" title=" " alt="" coords="828,56,1091,83"/>
+<area shape="rect" id="node12" href="$class_dati_covid_1_1_load_proxy.html#ad9ed3e162620a33b0e528bb91d27d15b" title=" " alt="" coords="552,284,780,311"/>
+<area shape="rect" id="node13" href="$class_dati_covid_1_1_load.html#a82395fee2f8d8ff57ee425f7913dff74" title=" " alt="" coords="863,259,1056,285"/>
+<area shape="rect" id="node14" href="$class_dati_covid_1_1_load_proxy.html#af6693233dbd926a7e2b19faf49969e58" title=" " alt="" coords="852,309,1067,336"/>
 </map>

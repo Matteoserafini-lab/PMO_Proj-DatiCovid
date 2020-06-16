@@ -1,5 +1,5 @@
 <map id="DatiCovid.MainWindow.Button1_Clicked" name="DatiCovid.MainWindow.Button1_Clicked">
 <area shape="rect" id="node1" title=" " alt="" coords="5,5,233,47"/>
-<area shape="rect" id="node2" href="$class_dati_covid_1_1_display_context.html#a3e3c5d28af8c0d5a657e0ccac21b9742" title=" " alt="" coords="281,5,476,47"/>
-<area shape="rect" id="node3" href="$interface_dati_covid_1_1_display_state.html#a9a039d7b9920cb183a5dee6dcf0bd39c" title=" " alt="" coords="524,13,757,39"/>
+<area shape="rect" id="node2" href="$class_dati_covid_1_1_display_choice.html#aedc8611415477834226913ac92946690" title=" " alt="" coords="281,5,468,47"/>
+<area shape="rect" id="node3" href="$interface_dati_covid_1_1_display_state.html#aafebee334bf497015efe2aaba23a7715" title=" " alt="" coords="516,13,749,39"/>
 </map>
