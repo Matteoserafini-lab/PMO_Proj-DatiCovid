@@ -1,0 +1,9 @@
+@startuml
+class CheckDataDownload {
+    - data : string
+    - b : bool
+    + CheckDataDownload(path:string)
+    + GetB() : bool
+}
+CheckDataDownload --> "today" DateTime
+@enduml

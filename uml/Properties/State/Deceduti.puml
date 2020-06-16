@@ -1,0 +1,10 @@
+@startuml
+class Deceduti {
+    + Deceduti(O:Officina, lbRegioni:Label, lbInfo2:Label)
+    + Next(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
+    + UpdateState(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
+    + Previous(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
+}
+DisplayState <|-- Deceduti
+Deceduti --> "_O" Officina
+@enduml

@@ -1,0 +1,154 @@
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.deps.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.dev.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/AtkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/CairoSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/GdkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/GioSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/GLibSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/GtkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/bin/Debug/netcoreapp3.1/PangoSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csprojAssemblyReference.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CoreCompileInputs.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfoInputs.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfo.cs
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CopyComplete
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.genruntimeconfig.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/DatiCovid
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/DatiCovid.deps.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.dev.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/AtkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/CairoSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/GdkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/GioSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/GLibSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/GtkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/bin/Debug/netcoreapp3.1/PangoSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/obj/Debug/netcoreapp3.1/DatiCovid.csprojAssemblyReference.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CoreCompileInputs.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfoInputs.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfo.cs
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CopyComplete
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/obj/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/obj/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid (copy)/obj/Debug/netcoreapp3.1/DatiCovid.genruntimeconfig.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.deps.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.dev.json
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/AtkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/CairoSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/GdkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/GioSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/GLibSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/GtkSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/PangoSharp.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csprojAssemblyReference.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CoreCompileInputs.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfoInputs.cache
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfo.cs
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CopyComplete
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/UNI_WORK/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.genruntimeconfig.cache
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.deps.json
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.json
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.dev.json
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/AtkSharp.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/CairoSharp.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/GdkSharp.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/GioSharp.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/GLibSharp.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/GtkSharp.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/bin/Debug/netcoreapp3.1/PangoSharp.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csprojAssemblyReference.cache
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CoreCompileInputs.cache
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfoInputs.cache
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfo.cs
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CopyComplete
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/uni/PMO/DatiCovid (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.genruntimeconfig.cache
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.deps.json
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.json
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.dev.json
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/AtkSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/CairoSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/GdkSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/GioSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/GLibSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/GtkSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/bin/Debug/netcoreapp3.1/PangoSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csprojAssemblyReference.cache
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CoreCompileInputs.cache
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfoInputs.cache
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfo.cs
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CopyComplete
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/uni/PMO/DatiCovid(copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.genruntimeconfig.cache
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.deps.json
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.json
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.dev.json
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/AtkSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/CairoSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/GdkSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/GioSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/GLibSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/GtkSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/bin/Debug/netcoreapp3.1/PangoSharp.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csprojAssemblyReference.cache
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CoreCompileInputs.cache
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfoInputs.cache
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfo.cs
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CopyComplete
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/uni/PMO/DatiCovid(copy) (copy)/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.genruntimeconfig.cache
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.deps.json
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.json
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.runtimeconfig.dev.json
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/AtkSharp.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/CairoSharp.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/GdkSharp.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/GioSharp.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/GLibSharp.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/GtkSharp.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/bin/Debug/netcoreapp3.1/PangoSharp.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csprojAssemblyReference.cache
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CoreCompileInputs.cache
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfoInputs.cache
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.AssemblyInfo.cs
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.csproj.CopyComplete
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.dll
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.pdb
+/home/matgab/uni/PMO/DatiCovid/DatiCovid/obj/Debug/netcoreapp3.1/DatiCovid.genruntimeconfig.cache

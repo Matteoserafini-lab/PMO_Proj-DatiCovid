@@ -1,0 +1,5 @@
+@startuml
+interface ILoad {
+    CaricaDati(lb:Label, l:Liste) : void
+}
+@enduml

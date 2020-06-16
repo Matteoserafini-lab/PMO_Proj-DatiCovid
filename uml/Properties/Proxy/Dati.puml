@@ -1,0 +1,10 @@
+@startuml
+class Dati {
+    - _url : string
+    - _path : string
+    - flag : bool
+    <<internal>> Dati(url:string, path:string, b:bool)
+    + DownloadDati() : JArray
+}
+IDati <|-- Dati
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+class ConcreteBuilder {
+    + ConcreteBuilder()
+    - Reset() : void
+    + data(item:JObject) : void
+    + stato(item:JObject) : void
+    + codice_regione(item:JObject) : void
+    + denominazione_regione(item:JObject) : void
+    + codice_provincia(item:JObject) : void
+    + denominazione_provincia(item:JObject) : void
+    + sigla_provincia(item:JObject) : void
+    + latitutine(item:JObject) : void
+    + longitudine(item:JObject) : void
+    + ricoverati_con_sintomi(item:JObject) : void
+    + terapia_intensiva(item:JObject) : void
+    + totale_ospedalizzati(item:JObject) : void
+    + isolamento_domiciliare(item:JObject) : void
+    + totale_positivi(item:JObject) : void
+    + variazione_totale_positivi(item:JObject) : void
+    + nuovi_positivi(item:JObject) : void
+    + dimessi_guariti(item:JObject) : void
+    + deceduti(item:JObject) : void
+    + totale_casi(item:JObject) : void
+    + tamponi(item:JObject) : void
+    + casi_testati(item:JObject) : void
+    + note_it(item:JObject) : void
+    + note_en(item:JObject) : void
+    + GetProduct() : Product
+}
+IBuilder <|-- ConcreteBuilder
+ConcreteBuilder --> "product" Product
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+interface DisplayState {
+    Next(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
+    UpdateState(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
+    Previous(ctx:DisplayContext, lbRegioni:Label, lbInfo2:Label) : void
+}
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+interface IDati {
+    DownloadDati() : JArray
+}
+@enduml

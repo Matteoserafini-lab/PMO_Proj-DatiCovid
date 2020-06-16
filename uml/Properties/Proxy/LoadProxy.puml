@@ -1,0 +1,10 @@
+@startuml
+class LoadProxy {
+    - b : bool
+    + LoadProxy(lb:Label, l:Liste)
+    - GetLoad(_b:bool) : Load
+    + CaricaDati(lb:Label, l:Liste) : void
+}
+ILoad <|-- LoadProxy
+LoadProxy --> "loader" Load
+@enduml

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['data_29',['data',['../class_dati_covid_1_1_officina.html#ad788d3d1034f3ae874caf34b6a44b8dd',1,'DatiCovid.Officina.data()'],['../class_dati_covid_1_1_check_data_download.html#aeee5e2a7eddd465d50a4c7abf5a923a0',1,'DatiCovid.CheckDataDownload.data()'],['../class_dati_covid_1_1_concrete_builder.html#a7f07ceea6e8e7c50d56bfce949964b30',1,'DatiCovid.ConcreteBuilder.data()'],['../interface_dati_covid_1_1_i_builder.html#a39946c182e93a9b2cc55881b070216df',1,'DatiCovid.IBuilder.data()']]],
+  ['dati_30',['Dati',['../class_dati_covid_1_1_dati.html',1,'DatiCovid.Dati'],['../class_dati_covid_1_1_dati.html#a13ac787eb52e77e2acc2b4abc95d4d97',1,'DatiCovid.Dati.Dati()'],['../class_dati_covid_1_1_liste.html#a27b5469ee2c488e36630d6772450059f',1,'DatiCovid.Liste.dati()']]],
+  ['dati_2ecs_31',['Dati.cs',['../_dati_8cs.html',1,'']]],
+  ['daticovid_32',['DatiCovid',['../namespace_dati_covid.html',1,'']]],
+  ['daticovid_2eassemblyinfo_2ecs_33',['DatiCovid.AssemblyInfo.cs',['../net472_2_dati_covid_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../netcoreapp3_81_2_dati_covid_8_assembly_info_8cs.html',1,'(Global Namespace)']]],
+  ['daticovid_2ecsproj_2efilelistabsolute_2etxt_34',['DatiCovid.csproj.FileListAbsolute.txt',['../_dati_covid_8csproj_8_file_list_absolute_8txt.html',1,'']]],
+  ['datiproxy_35',['DatiProxy',['../class_dati_covid_1_1_dati_proxy.html',1,'DatiCovid.DatiProxy'],['../class_dati_covid_1_1_dati_proxy.html#a59c590cf3d7ff65e1b7ff10c4b7e4662',1,'DatiCovid.DatiProxy.DatiProxy()']]],
+  ['datiproxy_2ecs_36',['DatiProxy.cs',['../_dati_proxy_8cs.html',1,'']]],
+  ['deceduti_37',['Deceduti',['../class_dati_covid_1_1_deceduti.html',1,'DatiCovid.Deceduti'],['../class_dati_covid_1_1_deceduti.html#a9a4c8e8d0f83bff5d78d7ca1ac942818',1,'DatiCovid.Deceduti.Deceduti()'],['../class_dati_covid_1_1_concrete_builder.html#ab2e09c1d8a2f7abf81477b7ac159de6e',1,'DatiCovid.ConcreteBuilder.deceduti()'],['../interface_dati_covid_1_1_i_builder.html#adf7e3e50f32b9dbd064026fdce4dec8c',1,'DatiCovid.IBuilder.deceduti()']]],
+  ['deceduti_2ecs_38',['Deceduti.cs',['../_deceduti_8cs.html',1,'']]],
+  ['denominazione_5fprovincia_39',['denominazione_provincia',['../class_dati_covid_1_1_concrete_builder.html#a12f9e6ac9a32d3ec4920666c78033158',1,'DatiCovid.ConcreteBuilder.denominazione_provincia()'],['../interface_dati_covid_1_1_i_builder.html#aafaee90517247dcac182052cd24a5cb6',1,'DatiCovid.IBuilder.denominazione_provincia()']]],
+  ['denominazione_5fregione_40',['denominazione_regione',['../class_dati_covid_1_1_concrete_builder.html#a1b8c63cdc66925afca5d81dc9f065665',1,'DatiCovid.ConcreteBuilder.denominazione_regione()'],['../interface_dati_covid_1_1_i_builder.html#a6c0045b12c206974d06dba56e2e394d3',1,'DatiCovid.IBuilder.denominazione_regione()']]],
+  ['dictionary_41',['dictionary',['../class_dati_covid_1_1_liste.html#ab5813023b8d93b62995017708311648b',1,'DatiCovid::Liste']]],
+  ['dimessi_5fguariti_42',['dimessi_guariti',['../class_dati_covid_1_1_concrete_builder.html#adfcdd9f1bee07895f8fc5fe88f3969f3',1,'DatiCovid.ConcreteBuilder.dimessi_guariti()'],['../interface_dati_covid_1_1_i_builder.html#a442cb28fc724b2362e05c6e47c475ed2',1,'DatiCovid.IBuilder.dimessi_guariti()']]],
+  ['director_43',['Director',['../class_dati_covid_1_1_director.html',1,'DatiCovid']]],
+  ['director_2ecs_44',['Director.cs',['../_director_8cs.html',1,'']]],
+  ['displaycontext_45',['DisplayContext',['../class_dati_covid_1_1_display_context.html',1,'DatiCovid.DisplayContext'],['../class_dati_covid_1_1_display_context.html#a22941664b6fb6cc597af416d32314678',1,'DatiCovid.DisplayContext.DisplayContext()']]],
+  ['displaycontext_2ecs_46',['DisplayContext.cs',['../_display_context_8cs.html',1,'']]],
+  ['displaystate_47',['DisplayState',['../interface_dati_covid_1_1_display_state.html',1,'DatiCovid']]],
+  ['dn_48',['DN',['../class_dati_covid_1_1_officina.html#a9b7e986d34db9bd5209b316590fc3899',1,'DatiCovid::Officina']]],
+  ['downloaddati_49',['DownloadDati',['../class_dati_covid_1_1_dati.html#a95adefa59e5b277651d10530f5dbda50',1,'DatiCovid.Dati.DownloadDati()'],['../class_dati_covid_1_1_dati_proxy.html#aa062f4d23d283e2fe88e52ad2e07d422',1,'DatiCovid.DatiProxy.DownloadDati()'],['../interface_dati_covid_1_1_i_dati.html#a05db568c61c0b98e5405d4081f8eb01b',1,'DatiCovid.IDati.DownloadDati()']]],
+  ['dr_50',['DR',['../class_dati_covid_1_1_officina.html#a140a662a2260c5ca6b7aaa35e8c65c92',1,'DatiCovid::Officina']]]
+];

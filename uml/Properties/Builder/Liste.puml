@@ -1,0 +1,11 @@
+@startuml
+class Liste {
+    + dati : string <<get>> <<set>>
+    + Liste(name:string)
+    + Order() : void
+}
+class "Dictionary`2"<T1,T2> {
+}
+Product <|-- Liste
+Liste o-> "dictionary<string,string>" "Dictionary`2"
+@enduml

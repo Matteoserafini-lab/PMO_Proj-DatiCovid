@@ -1,0 +1,27 @@
+@startuml
+interface IBuilder {
+    data(s:JObject) : void
+    stato(s:JObject) : void
+    codice_regione(s:JObject) : void
+    denominazione_regione(s:JObject) : void
+    codice_provincia(s:JObject) : void
+    denominazione_provincia(s:JObject) : void
+    sigla_provincia(s:JObject) : void
+    latitutine(s:JObject) : void
+    longitudine(s:JObject) : void
+    ricoverati_con_sintomi(s:JObject) : void
+    terapia_intensiva(s:JObject) : void
+    totale_ospedalizzati(s:JObject) : void
+    isolamento_domiciliare(s:JObject) : void
+    totale_positivi(s:JObject) : void
+    variazione_totale_positivi(s:JObject) : void
+    nuovi_positivi(s:JObject) : void
+    dimessi_guariti(s:JObject) : void
+    deceduti(s:JObject) : void
+    totale_casi(s:JObject) : void
+    tamponi(s:JObject) : void
+    casi_testati(s:JObject) : void
+    note_it(s:JObject) : void
+    note_en(s:JObject) : void
+}
+@enduml

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatiCovid", "DatiCovid.csproj", "{A7396FB3-2AC2-4D48-917C-3A07BEB6BDCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7396FB3-2AC2-4D48-917C-3A07BEB6BDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7396FB3-2AC2-4D48-917C-3A07BEB6BDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7396FB3-2AC2-4D48-917C-3A07BEB6BDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7396FB3-2AC2-4D48-917C-3A07BEB6BDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+@startuml
+class Product {
+    <<internal>> _name : string
+    + Add(s:string, part:string) : void
+    + GetData() : string
+    + GetPart(p:Product) : string
+    + GetParts() : Dictionary<string, string>
+}
+class "Dictionary`2"<T1,T2> {
+}
+Product o-> "parts<string,string>" "Dictionary`2"
+@enduml

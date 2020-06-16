@@ -1,0 +1,8 @@
+@startuml
+class Load {
+    - _b : bool = false
+    + Load(b:bool)
+    + CaricaDati(lb:Label, l:Liste) : void
+}
+ILoad <|-- Load
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+class DatiProxy {
+    - _url : string
+    - _path : string
+    + DatiProxy(url:string, path:string)
+    - GetDati() : Dati
+    + DownloadDati() : JArray
+}
+IDati <|-- DatiProxy
+DatiProxy --> "_dati" Dati
+DatiProxy --> "check" CheckDataDownload
+@enduml

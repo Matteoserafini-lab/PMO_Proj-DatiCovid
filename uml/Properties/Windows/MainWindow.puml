@@ -1,0 +1,20 @@
+@startuml
+class MainWindow {
+    - <<readonly>> info : string = "\nnuovi dati ogni giorno\n dopo le 17:00"
+    + MainWindow()
+    - MainWindow(builder:Builder)
+    - Window_DeleteEvent(sender:object, a:DeleteEventArgs) : void
+    - Button1_Clicked(sender:object, a:EventArgs) : void
+    - Button2_Clicked(sender:object, a:EventArgs) : void
+    - Button3_Clicked(sender:object, a:EventArgs) : void
+}
+Window <|-- MainWindow
+MainWindow o-> "lbInfo1" Label
+MainWindow o-> "lbItalia" Label
+MainWindow o-> "lbRegioni" Label
+MainWindow o-> "lbInfo2" Label
+MainWindow o-> "_button1" Button
+MainWindow o-> "_button2" Button
+MainWindow o-> "_button3" Button
+MainWindow --> "ctx" DisplayContext
+@enduml

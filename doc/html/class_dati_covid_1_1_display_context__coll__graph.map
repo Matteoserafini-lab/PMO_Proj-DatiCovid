@@ -1,0 +1,13 @@
+<map id="DatiCovid.DisplayContext" name="DatiCovid.DisplayContext">
+<area shape="rect" id="node1" title=" " alt="" coords="157,772,348,893"/>
+<area shape="rect" id="node2" href="$class_dati_covid_1_1_officina.html" title=" " alt="" coords="182,529,323,709"/>
+<area shape="rect" id="node3" href="$class_dati_covid_1_1_liste.html" title=" " alt="" coords="13,338,135,445"/>
+<area shape="rect" id="node4" href="$class_dati_covid_1_1_product.html" title=" " alt="" coords="5,132,108,268"/>
+<area shape="rect" id="node5" href="$class_dati_covid_1_1_dati_proxy.html" title=" " alt="" coords="175,331,330,452"/>
+<area shape="rect" id="node6" href="$interface_dati_covid_1_1_i_dati.html" title=" " alt="" coords="113,5,251,83"/>
+<area shape="rect" id="node7" href="$class_dati_covid_1_1_dati.html" title=" " alt="" coords="183,139,322,261"/>
+<area shape="rect" id="node8" href="$class_dati_covid_1_1_check_data_download.html" title=" " alt="" coords="346,139,573,261"/>
+<area shape="rect" id="node9" href="$class_dati_covid_1_1_load_proxy.html" title=" " alt="" coords="531,338,689,445"/>
+<area shape="rect" id="node10" href="$interface_dati_covid_1_1_i_load.html" title=" " alt="" coords="586,5,701,83"/>
+<area shape="rect" id="node11" href="$class_dati_covid_1_1_load.html" title=" " alt="" coords="648,154,769,246"/>
+</map>

@@ -1,0 +1,8 @@
+@startuml
+class Director {
+    + AndamentoNazionale(s:JObject) : void
+    + Regione(s:JObject) : void
+}
+Director --> "builder" IBuilder
+Director --> "Builder" IBuilder
+@enduml
